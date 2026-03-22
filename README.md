@@ -53,7 +53,8 @@ To determine & simulate the displacement & velocity analysis for the given four 
 
 ## Output:
 
-![Ex_1 1_page-0001](https://github.com/user-attachments/assets/77878fc7-ffdc-42af-8e5b-c9e2e5a040d3)
+<img width="4713" height="6714" alt="EMPD EXP1" src="https://github.com/user-attachments/assets/30a0c919-9b67-447c-bb04-44514132a587" />
+
 
 
 ### Name: Mithun Sai P
