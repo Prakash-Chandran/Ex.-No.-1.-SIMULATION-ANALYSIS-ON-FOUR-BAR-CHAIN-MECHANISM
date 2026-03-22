@@ -57,8 +57,8 @@ To determine & simulate the displacement & velocity analysis for the given four 
 
 
 
-### Name: Mithun Sai P
-### Register Number: 212225100026
+### Name: Prakash C
+### Register Number: 212223240122
 
 ## RESULT:
 Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
