@@ -52,10 +52,12 @@ To determine & simulate the displacement & velocity analysis for the given four 
 
 
 ## Output:
-![alt text](EMPD%20EXP1.png)
 
-### Name: Prakash C
-### Register Number: 212223240122
+![Ex_1 1_page-0001](https://github.com/user-attachments/assets/77878fc7-ffdc-42af-8e5b-c9e2e5a040d3)
+
+
+### Name: Mithun Sai P
+### Register Number: 212225100026
 
 ## RESULT:
 Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
